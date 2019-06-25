@@ -1,0 +1,130 @@
+[
+    {
+      "value": "Pacific/Midway",
+      "text": "(GMT -11:00) Midway Islands"
+    },
+    {
+      "value": "Pacific/Honolulu",
+      "text": "(GMT -10:00) Hawaii"
+    },
+    {
+      "value": "Pacific/Marquesas",
+      "text": "(GMT -9:30) Marquesas Islands"
+    },
+    {
+      "value": "America/Anchorage",
+      "text": "(GMT -9:00) Alaska"
+    },
+    {
+      "value": "America/Los_Angeles",
+      "text": "(GMT -8:00) Pacific Time"
+    },
+    {
+      "value": "America/Denver",
+      "text": "(GMT -7:00) Mountain Time"
+    },
+    {
+      "value": "America/Chicago",
+      "text": "(GMT -6:00) Central Time"
+    },
+    {
+      "value": "America/New_York",
+      "text": "(GMT -5:00) Eastern Time"
+    },
+    {
+      "value": "America/Halifax",
+      "text": "(GMT -4:00) Atlantic Time"
+    },
+    {
+      "value": "America/St_Johns",
+      "text": "(GMT -3:30) Newfoundland"
+    },
+    {
+      "value": "America/Sao_Paulo",
+      "text": "(GMT -3:00) Brazil"
+    },
+    {
+      "value": "America/Noronha",
+      "text": "(GMT -2:00) Mid-Atlantic"
+    },
+    {
+      "value": "America/Azores",
+      "text": "(GMT -1:00) Azores"
+    },
+    {
+      "value": "Europe/London",
+      "text": "(GMT) Greenwich Mean Time"
+    },
+    {
+      "value": "Europe/Paris",
+      "text": "(GMT +1:00) Paris"
+    },
+    {
+      "value": "Africa/Johannesburg",
+      "text": "(GMT +2:00) South Africa"
+    },
+    {
+      "value": "Europe/Moscow",
+      "text": "(GMT +3:00) Moscow"
+    },
+    {
+      "value": "Asia/Tehran",
+      "text": "(GMT +3:30) Tehran"
+    },
+    {
+      "value": "Asia/Dubai",
+      "text": "(GMT +4:00) Dubai"
+    },
+    {
+      "value": "Asia/Kabul",
+      "text": "(GMT +4:30) Kabul"
+    },
+    {
+      "value": "Asia/Karachi",
+      "text": "(GMT +5:00) Karachi"
+    },
+    {
+      "value": "Asia/Dhaka",
+      "text": "(GMT +6:00) Dhaka"
+    },
+    {
+      "value": "Asia/Bangkok",
+      "text": "(GMT +7:00) Bangkok"
+    },
+    {
+      "value": "Asia/Singapore",
+      "text": "(GMT +8:00) Singapore"
+    },
+    {
+      "value": "Asia/Tokyo",
+      "text": "(GMT +9:00) Tokyo"
+    },
+    {
+      "value": "Australia/Adelaide",
+      "text": "(GMT +9:30) Adelaide"
+    },
+    {
+      "value": "Pacific/Guam",
+      "text": "(GMT +10:00) Guam"
+    },
+    {
+      "value": "Pacific/Norfolk",
+      "text": "(GMT +11:00) Norfolk"
+    },
+    {
+      "value": "Pacific/Fiji",
+      "text": "(GMT +12:00) Fiji"
+    },
+    {
+      "value": "Pacific/Chatham",
+      "text": "(GMT +12:45) Chatham Islands"
+    },
+    {
+      "value": "Pacific/Enderbury",
+      "text": "(GMT +13:00) Phoenix Islands"
+    },
+    {
+      "value": "Pacific/Kirimati",
+      "text": "(GMT +14:00) Line Islands"
+    }
+  ]
